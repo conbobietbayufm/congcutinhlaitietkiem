@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🏦 ỨNG DỤNG TÍNH LÃI GỬI TIẾT KIỆM_THÂN NGỌC DIỄM")
+st.title("🏦 CÔNG CỤ TÍNH LÃI GỬI TIẾT KIỆM_THÂN NGỌC DIỄM")
 st.write(
     "Nhập thông tin khoản tiền gửi để tính tiền lãi "
     "theo kỳ hạn và hình thức nhận lãi."
